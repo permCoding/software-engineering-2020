@@ -3,9 +3,9 @@
 `класс`  
 `static`  
 `библиотека`  
-`namespace`
-`alias`
-`словарь`  
+`namespace`  
+`alias`  
+`словарь`    
 
 ---  
 
