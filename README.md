@@ -64,3 +64,6 @@ https://youtu.be/OcouGiTxEe8	- Часть 6 MySQL+WorkBench - Несколько
 https://youtu.be/***********	- Часть 7 C# - Делаем запросы INSERT, SELECT, UPDATE, DELETE  
    
 ---  
+
+[https://permcoding.github.io/js-colors/docs/docsmaterialize/](пример проги)  
+
