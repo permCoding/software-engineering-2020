@@ -23,18 +23,51 @@ _используем библиотеку CsvHelper_
 Лабраб 28.02.2020  
 Пишем в CSV  
 * Program-02.cs  
-Библиотека классов  
-_перевод 2=>10=>2_  
-* Program-03.cs  
-* Utils.cs  
 
-Лекция 04.02.2020  
-* Program-04.cs  
-_рекурсивный перевод_  
-* Program-05.cs  
+Лекция 04.03.2020  
+_рекурсивный перевод 2=>10=>2_  
+Библиотека классов  
+* Utils.cs => .dll  
+``` cs
+public class Convert
+{
+    public string Num_bin { set; get; }
+    public int Num_dec { set; get; }
+
+    public Convert()
+    {
+        this.Num_bin = "0";
+        this.Num_dec = 0;
+    }
+    public Convert(int d)
+    {
+
+    }
+    public Convert(string b)
+    {
+
+    }
+
+    private int ToDec(string num_bin)
+    {
+
+    }
+
+    private string ToBin(int num_dec)
+    {
+
+    }
+}
+```
+и программа  
+* Program-03.cs  
+
 _рекурсивный перебор папок_  
+* Program-04.cs  
+_пример с перечислениями и интерфейсами_  
+* Program-05.cs  
+_обсуждаем интерфейсы_  
 * Program-06.cs  
-_обсуждаем интерфейсы_
 
 
 ---  
