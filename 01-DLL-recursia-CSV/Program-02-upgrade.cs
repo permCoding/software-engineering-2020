@@ -6,7 +6,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace csvlection
+namespace csv
 {
     public class Language
     {
@@ -14,14 +14,11 @@ namespace csvlection
         public string Mask { get; set; }
     }
 
-    class MainClass
+    class Program
     {
-        public static void Main(string[] args)
+        public static List<Language> GetList(string nameFile)
         {
-            string nameFile = "Languages.csv";
-
             List<Language> lst = new List<Language>();
-            #region CsvHelper
             using (StreamReader sr = new StreamReader(nameFile))
             {
                 using (CsvReader cr = new CsvReader(sr, CultureInfo.CurrentCulture))
@@ -36,12 +33,14 @@ namespace csvlection
                         .OrderBy(item => item.Name)
                         .ToList();
                     lst
-                       .ForEach(item => item.Mask =item.Mask.Substring(1));
-}
+                       .ForEach(item => item.Mask = item.Mask.Substring(1));
+                }
             }
-            #endregion
+            return lst;
+        }
 
-            #region MyRegion
+        private static void writeList(List<Language> lst, string nameFile)
+        {
             using (StreamWriter sw = new StreamWriter('_' + nameFile))
             {
                 using (CsvWriter cw = new CsvWriter(sw, CultureInfo.CurrentCulture))
@@ -57,8 +56,13 @@ namespace csvlection
                     }
                 }
             }
-            #endregion
+        }
 
+        public static void Main(string[] args)
+        {
+            string nameFile = "Languages.csv";
+            List<Language> lst = GetList(nameFile);
+            writeList(lst, nameFile);
             Console.WriteLine("The end...");
             Console.ReadLine();
         }
