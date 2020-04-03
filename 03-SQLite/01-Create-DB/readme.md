@@ -10,7 +10,7 @@
 
 ---  
 
-* Презентация: [SQLite.pdf](https://github.com/permCoding/software-engineering-2020/blob/master/03-SQLite/01-Create-DB/SQLite.pdf)  
+* Презентация: [SQLite.pdf](https://github.com/permCoding/software-engineering-2020/blob/master/03-SQLite/01-Create-DB/SQLite.pdf) (если открываете внутри гита, то ссылки не кликабельны)  
 * Ссылка на учебное видео: [SQLite+CSV](https://youtu.be/K1EqyVOkv70)  
 
 ---  
