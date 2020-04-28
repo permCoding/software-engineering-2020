@@ -3,6 +3,7 @@
 
 Откуда скачать сервер MySQL: https://dev.mysql.com/downloads/mysql/  
 Откуда скачать редактор: https://dev.mysql.com/downloads/workbench/  
+[МиниУчебник от меня pdf 5Mb](https://pcoding.ru/pdf/CSharpMySQL.pdf)  
 
 ---  
 
