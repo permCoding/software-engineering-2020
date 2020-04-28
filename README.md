@@ -67,3 +67,9 @@ https://youtu.be/***********	- Часть 7 C# - Делаем запросы INS
 
 [https://permcoding.github.io/js-colors/docs/docsmaterialize/](пример проги)  
 
+---  
+
+[Разметка markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)  
+
+---  
+
