@@ -12,7 +12,7 @@
 
 ---  
 
-Часть 1. Лекция 28.04.2020  
+Часть 1. Лекция 29.04.2020  
 
 * CSV -> Table MySQL WorkBench  
 * Table MySQL -> CSV  
