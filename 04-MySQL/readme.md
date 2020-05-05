@@ -5,8 +5,8 @@
 Откуда скачать редактор: https://dev.mysql.com/downloads/workbench/  
 [МиниУчебник от меня pdf 5Mb](https://pcoding.ru/pdf/CSharpMySQL.pdf)  
 Учебные видео:  
-[К Части 1 текущей темы: MySQL; PhpMyAdmin; WFA + C#](https://youtu.be/Y9sIPmtrLnQ)  
-[К Части 2 текущей темы: MySQL; WorkBench; MetroStyle](https://youtu.be/Y9sIPmtrLnQ)  
+К Части 1 текущей темы: [MySQL; PhpMyAdmin; WFA + C#](https://youtu.be/Y9sIPmtrLnQ)  
+К Части 2 текущей темы: [MySQL; WorkBench; MetroStyle](https://youtu.be/Y9sIPmtrLnQ)  
 
 ---  
 
