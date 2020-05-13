@@ -9,7 +9,7 @@ MySQL версии 8.0.19
 Use SSL: No
 
 Можно заходить как через WorkBench, 
-так и через phpMyAdmin - http://pgsha.ru:35080/phpmyadmin
+так и через phpMyAdmin - [http://pgsha.ru:35080/phpmyadmin](http://pgsha.ru:35080/phpmyadmin)
 
 Индивидуальные:
 Username: ********
