@@ -1,5 +1,9 @@
 ## Курсовой проект
 
+
+
+[Вход в ваш аккаунт на хостинге универа](http://pgsha.ru:35080/phpmyadmin)  
+
 ```
 MySQL версии 8.0.19
 
@@ -9,7 +13,7 @@ MySQL версии 8.0.19
 Use SSL: No
 
 Можно заходить как через WorkBench, 
-так и через phpMyAdmin - [http://pgsha.ru:35080/phpmyadmin](http://pgsha.ru:35080/phpmyadmin)
+так и через phpMyAdmin - http://pgsha.ru:35080/phpmyadmin
 
 Индивидуальные:
 Username: ********
